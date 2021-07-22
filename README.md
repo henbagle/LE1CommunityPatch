@@ -27,4 +27,4 @@ Minor lore inconsistencies within LE1 and between LE1 and the other Mass Effect 
 
 **3. Modding QoL**
 
-Where possible, we would like to make the quality of life better for the modders who work on LE1. These back-end improvements should have zero impact on gameplay or performance. These improvements should be throughly debated and tested. This is last on the priority list for a reason.
+Where possible, we would like to make the quality of life better for the modders who work on LE1. These back-end improvements should have zero impact on gameplay or performance. These improvements should be throughly debated and tested. This is last on the priority list for a reason. To bring this project in line with the planned community patch for LE3, these changes would be included in a seperate mod package, so that one could install purely bugfixes with no streaming changes if desired.
