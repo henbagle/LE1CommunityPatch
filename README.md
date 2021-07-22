@@ -16,6 +16,8 @@ The goal of this mod is to provide bugfixes, as well as to provide a baseline fo
 
 This mod will not include cut content, new content, QoL features, or artistic changes to the original game.
 
+Any fixes submitted to this mod are open source - you waive any personal ownership to it and it effectively becomes "public domain" for the entire modding community. This way, mods can be built off the Community Patch with no need for permissions. Technical information on how a fix was achieved should be included wherever possible to aid compatibility. If you are not comfortable with these terms, please do not contribute to Community Patch.
+
 ## Mod Priorities
 **1. Bugfixes**
 
