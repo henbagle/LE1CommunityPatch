@@ -1,0 +1,58 @@
+LE1 Community Patch
+Your username:
+Instructions:
+Thank you so much for agreeing to translate for the LE1 Community Patch! Here are some instructions, though it's pretty self-explanatory.
+Below are a series of numbers and english phrases from the game. Please translate each line of text onto the line below. 
+Some lines already have translations, these are from the game. They will probably need updating to match the english text (which has been changed from the vanilla game)
+If lines should differ between a male or female shepard, please put them both down and specify which is which. Please leave the english text and numbers where they are so we know which line goes where.
+Please include your username at the top so we can credit you
+Thank you!!!
+
+
+200000
+LE1 Community Patch
+
+
+156048
+The probe was a trap set specifically to lure you in. Elanos Haliat, the mastermind behind the attack on Elysium, wants revenge on the Alliance for his defeat.
+
+
+156050
+The probe was a trap set specifically to lure you in. Elanos Haliat, the mastermind behind the attack on Elysium, wants revenge on you for heroically holding the line.
+
+
+167889
+ID TAG RECOVERED
+These mummified remains have an identification tag for Captain Varsinth, one of the salarian soldiers responsible for capturing the League of One. It's unclear why he would be on this desolate world.
+
+
+170474 (Krogan Rebellion should become pluralized)
+After talking to Wrex you learned that he's looking for his family's ceremonial armor. It was taken by the turians after the Krogan Rebellions and now a profiteer named Tonn Actus has it.
+
+
+172890
+MSV Cornucopia
+
+
+143178
+Councilor Tevos
+
+
+143183
+Councilor Valern
+
+
+143185
+Councilor Sparatus
+
+
+200001
+It's rough sometimes, but they spike higher than a lot of L3s.
+
+
+200002
+You've discovered that Matriarch Benezia is on Noveria, but she's left the public port area. In order to proceed, you need to get a pass into the garage. Gianna suggested speaking with Lorik Qui'in, but there may be other ways to get a pass.
+
+
+200003
+Gianna said to speak to Lorik Qui'in at the hotel bar. Take the elevator on the upper end of the plaza, opposite the entrance from the docking bays.
