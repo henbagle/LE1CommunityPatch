@@ -1,0 +1,191 @@
+	<string>
+        <id>200006</id>
+        <flags>1</flags>
+        <data>Mod Settings</data>
+    </string>
+	<string>
+        <id>200007</id>
+        <flags>1</flags>
+        <data>Next Image</data>
+    </string>
+	<string>
+        <id>200008</id>
+        <flags>1</flags>
+        <data>Enable</data>
+    </string>
+	<string>
+        <id>200009</id>
+        <flags>1</flags>
+        <data>Disable</data>
+    </string>
+	<string>
+        <id>200010</id>
+        <flags>1</flags>
+        <data>Unknown Creature</data>
+    </string>
+	<string>
+        <id>200011</id>
+        <flags>1</flags>
+        <data>Unknown Bug</data>
+    </string>
+	<string>
+        <id>200012</id>
+        <flags>1</flags>
+        <data>Scroll</data>
+    </string>
+	<string>
+        <id>200013</id>
+        <flags>1</flags>
+        <data>Confirm your choices and start the game?
+You will be able to change settings any time from the pause screen or load Save 1 to make further changes prior to the prologue.</data>
+    </string>
+	<string>
+        <id>200050</id>
+        <flags>1</flags>
+        <data>Community Patch Settings</data>
+    </string>
+	<string>
+        <id>200051</id>
+        <flags>1</flags>
+        <data>Settings for the LE1 Community Patch</data>
+    </string>
+	<string>
+        <id>200052</id>
+        <flags>1</flags>
+        <data>Settings for the LE1 Community Patch, including optional changes that are disabled by default.</data>
+    </string>
+	<string>
+        <id>200053</id>
+        <flags>1</flags>
+        <data>ENABLED</data>
+    </string>
+	<string>
+        <id>200054</id>
+        <flags>1</flags>
+        <data>DISABLED</data>
+    </string>
+	<string>
+        <id>200055</id>
+        <flags>1</flags>
+        <data>Noveria Hackable M29 Grizzly</data>
+    </string>
+	<string>
+        <id>200056</id>
+        <flags>1</flags>
+        <data>Restores the hackable M29 Grizzly in the Port Hanshan garage from ME1 OT. This option is currently enabled.</data>
+    </string>
+	<string>
+        <id>200057</id>
+        <flags>1</flags>
+        <data>Restores the hackable M29 Grizzly in the Port Hanshan garage from ME1 OT. This option is currently disabled (vanilla behavior).</data>
+    </string>
+	<string>
+        <id>200058</id>
+        <flags>1</flags>
+        <data>Noveria Alien Creature Spoilers</data>
+    </string>
+	<string>
+        <id>200059</id>
+        <flags>1</flags>
+        <data>Changes the name of a certain alien creature to prevent spoilers until the creature's true origin is revealed. This feature is ported from ME1 Recalibrated. This option is currently enabled.</data>
+    </string>
+	<string>
+        <id>200060</id>
+        <flags>1</flags>
+        <data>Changes the name of a certain alien creature to prevent spoilers until the creature's true origin is revealed. This feature is ported from ME1 Recalibrated. This option is currently disabled (vanilla behavior).</data>
+    </string>
+	<string>
+        <id>200061</id>
+        <flags>1</flags>
+        <data>Changes the name of a certain alien creature to prevent spoilers until the creature's true origin is revealed. This feature is ported from ME1 Recalibrated. This option cannot be changed because LE1 Diversification Project is installed, and overrides this behavior.</data>
+    </string>
+	<string>
+        <id>200062</id>
+        <flags>1</flags>
+        <data>Feros: Data Recovery Backtracking</data>
+    </string>
+	<string>
+        <id>200063</id>
+        <flags>1</flags>
+        <data>Allows you to backtrack through Feros to complete Feros: Data Recovery after the completion of the main mission. This option is currently enabled.</data>
+    </string>
+	<string>
+        <id>200064</id>
+        <flags>1</flags>
+        <data>Allows you to backtrack through Feros to complete Feros: Data Recovery after the completion of the main mission. This option is currently disabled (vanilla behavior).</data>
+    </string>
+	<string>
+        <id>200065</id>
+        <flags>1</flags>
+        <data>Salarian C-Sec Officer Outfit</data>
+    </string>
+	<string>
+        <id>200066</id>
+        <flags>1</flags>
+        <data>The Salarian C-Sec Officer in the Citadel Control version of the escape cutscene wears a C-Sec uniform. This option is currently enabled.</data>
+    </string>
+	<string>
+        <id>200067</id>
+        <flags>1</flags>
+        <data>The Salarian C-Sec Officer in the Citadel Control version of the escape cutscene wears a C-Sec uniform. This option is currently disabled (vanilla behavior).</data>
+    </string>
+	<string>
+        <id>200068</id>
+        <flags>1</flags>
+        <data>Han Olar Scientist Outfit</data>
+    </string>
+	<string>
+        <id>200069</id>
+        <flags>1</flags>
+        <data>Han Olar wears the cut Volus Scientist outfit. This option is currently disabled (vanilla behavior).</data>
+    </string>
+	<string>
+        <id>200070</id>
+        <flags>1</flags>
+        <data>Han Olar wears the cut Volus Scientist outfit. This option is currently enabled.</data>
+    </string>
+	<string>
+        <id>200071</id>
+        <flags>1</flags>
+        <data>Han Olar wears the cut Volus Scientist outfit. This option cannot be changed because LE1 Diversification Project is installed, and overrides this behavior.</data>
+    </string>
+	<string>
+        <id>200072</id>
+        <flags>1</flags>
+        <data>Morlan Alternate Appearance</data>
+    </string>
+	<string>
+        <id>200073</id>
+        <flags>1</flags>
+        <data>Morlan's face is changed to his unique face from a cut ME1 file. This option is currently disabled (vanilla behavior).</data>
+    </string>
+	<string>
+        <id>200074</id>
+        <flags>1</flags>
+        <data>Morlan's face is changed to his unique face from a cut ME1 file. This option is currently enabled.</data>
+    </string>
+	<string>
+        <id>200075</id>
+        <flags>1</flags>
+        <data>Morlan's face is changed to his unique face from a cut ME1 file. This option cannot be changed because LE1 Diversification Project is installed, and overrides this behavior.</data>
+    </string>
+	<string>
+        <id>200076</id>
+        <flags>1</flags>
+        <data>Banes Blackmailer Alternate Outfit</data>
+    </string>
+	<string>
+        <id>200077</id>
+        <flags>1</flags>
+        <data>The Krogan blackmailer's face is changed to a unique face from a cut ME1 file. This option is currently disabled (vanilla behavior).</data>
+    </string>
+	<string>
+        <id>200078</id>
+        <flags>1</flags>
+        <data>The Krogan blackmailer's face is changed to a unique face from a cut ME1 file. This option is currently enabled.</data>
+    </string>
+	<string>
+        <id>200079</id>
+        <flags>1</flags>
+        <data>The Krogan blackmailer's face is changed to a unique face from a cut ME1 file. This option cannot be changed because LE1 Diversification Project is installed, and overrides this behavior.</data>
+    </string>
