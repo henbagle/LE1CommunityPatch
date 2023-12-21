@@ -7,6 +7,10 @@ All fixes are open to discussion and debate. If you feel a fix should or should 
 
 This mod is currently being managed by HenBagle and the Mass Effect Modding Workshop.
 
+## Mod Setting Menu
+
+A (currently very WIP) tutorial on how to use the Mod Settings Menu feature is available here: [Tutorial: Creating a custom Mod Settings Menu](https://github.com/henbagle/LE1CommunityPatch/wiki/Tutorial:-Creating-a-custom-Mod-Settings-Menu)
+
 ## Community Involvement
 This is an open modding project. Anyone can contribute fixes, and all can use this mod for any purpose without permission from it's authors. The community should be able to clearly see what is being changed in this mod, as well as how and why. Fixes should be open to debate.
 
