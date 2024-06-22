@@ -1,0 +1,15 @@
+    <string>
+        <id>200080</id>
+        <flags>1</flags>
+        <data>Flux Bouncer Outfit</data>
+    </string>
+    <string>
+        <id>200081</id>
+        <flags>1</flags>
+        <data>The human bouncer in Flux is changed to his black cutscene outfit, to remain consistent. This option is currently enabled.</data>
+    </string>
+    <string>
+        <id>200082</id>
+        <flags>1</flags>
+        <data>The human bouncer in Flux is changed to his black cutscene outfit, to remain consistent. This option is currently disabled (vanilla behavior).</data>
+    </string>
