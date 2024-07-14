@@ -1,0 +1,13 @@
+Changelog:
+Fixed a broken texture reference with the optional Morlan restored appearance. Updated mod settings menu to match.
+Prepared 2DA merge format for Mod Manager 9.0 Beta. This version will still work on Mod Manager 8.2
+
+Changed Files:
+GUI_MOD_LE1CPMenuImages.pcc
+BIOA_STA60_02b_DSG.pcc
+Textures_DLC_MOD_LE1CP.tfc
+
+New files:
+
+DLC_MOD_LE1CP-2DAMerge.m3da
+2DA_DLC_MOD_LE1CP.pcc

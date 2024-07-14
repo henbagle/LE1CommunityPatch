@@ -1,0 +1,18 @@
+Changelog:
+Removed the Morlan alternate appearance setting until we can more reliably get morph face swapping working. The Banes blackmailer setting remains unaffected
+Fixed floating grass in the Citadel tower (#255)
+Fixed an issue with the UNC: Lost Freighter dialogue bugfix
+Fixed some missing text strings in the FOV menu in the Polish version of the mod
+Fully migrated to Mod Manager 9 2DA merge format. This version of the mod will not be able to be installed on mod manager versions below 9.0
+
+Changed Files:
+BIOA_STA60_02b_DSG.pcc
+BIOA_FRE33_00_DSG.pcc
+DLC_MOD_LE1CP_GlobalTlk_PL.pcc
+DLC_MOD_LE1CP_GlobalTlk_PLPC.pcc
+DLC_MOD_LE1CP_2DA.pcc
+DLC_MOD_LE1CP-2DAMerge.m3da
+ModSettings_Submenus_LE1CP.pcc
+
+New files:
+BIOA_STA70_02_LAY.pcc
