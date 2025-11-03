@@ -1,3 +1,5 @@
+<a href="https://www.moddb.com/mods/le1-community-patch" title="View LE1 Community Patch on ModDB" target="_blank"><img src="https://button.moddb.com/popularity/medium/mods/51306.png" alt="LE1 Community Patch" /></a>
+
 # LE1 Community Patch Issue Tracker
 This repository serves as a record of what has been and what will be changed by Community Patch mod for Mass Effect 1: Legendary Edition.
 
